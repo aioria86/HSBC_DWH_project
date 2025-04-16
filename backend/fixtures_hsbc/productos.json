@@ -1,0 +1,802 @@
+[
+  {
+    "model": "ventas.producto",
+    "pk": 1,
+    "fields": {
+      "nombre": "Producto 001",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 2,
+    "fields": {
+      "nombre": "Producto 002",
+      "categoria": "Tecnolog\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 3,
+    "fields": {
+      "nombre": "Producto 003",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 4,
+    "fields": {
+      "nombre": "Producto 004",
+      "categoria": "Tecnolog\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 5,
+    "fields": {
+      "nombre": "Producto 005",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 6,
+    "fields": {
+      "nombre": "Producto 006",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 7,
+    "fields": {
+      "nombre": "Producto 007",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 8,
+    "fields": {
+      "nombre": "Producto 008",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 9,
+    "fields": {
+      "nombre": "Producto 009",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 10,
+    "fields": {
+      "nombre": "Producto 010",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 11,
+    "fields": {
+      "nombre": "Producto 011",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 12,
+    "fields": {
+      "nombre": "Producto 012",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 13,
+    "fields": {
+      "nombre": "Producto 013",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 14,
+    "fields": {
+      "nombre": "Producto 014",
+      "categoria": "Tecnolog\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 15,
+    "fields": {
+      "nombre": "Producto 015",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 16,
+    "fields": {
+      "nombre": "Producto 016",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 17,
+    "fields": {
+      "nombre": "Producto 017",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 18,
+    "fields": {
+      "nombre": "Producto 018",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 19,
+    "fields": {
+      "nombre": "Producto 019",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 20,
+    "fields": {
+      "nombre": "Producto 020",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 21,
+    "fields": {
+      "nombre": "Producto 021",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 22,
+    "fields": {
+      "nombre": "Producto 022",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 23,
+    "fields": {
+      "nombre": "Producto 023",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 24,
+    "fields": {
+      "nombre": "Producto 024",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 25,
+    "fields": {
+      "nombre": "Producto 025",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 26,
+    "fields": {
+      "nombre": "Producto 026",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 27,
+    "fields": {
+      "nombre": "Producto 027",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 28,
+    "fields": {
+      "nombre": "Producto 028",
+      "categoria": "Tecnolog\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 29,
+    "fields": {
+      "nombre": "Producto 029",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 30,
+    "fields": {
+      "nombre": "Producto 030",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 31,
+    "fields": {
+      "nombre": "Producto 031",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 32,
+    "fields": {
+      "nombre": "Producto 032",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 33,
+    "fields": {
+      "nombre": "Producto 033",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 34,
+    "fields": {
+      "nombre": "Producto 034",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 35,
+    "fields": {
+      "nombre": "Producto 035",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 36,
+    "fields": {
+      "nombre": "Producto 036",
+      "categoria": "Tecnolog\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 37,
+    "fields": {
+      "nombre": "Producto 037",
+      "categoria": "Tecnolog\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 38,
+    "fields": {
+      "nombre": "Producto 038",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 39,
+    "fields": {
+      "nombre": "Producto 039",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 40,
+    "fields": {
+      "nombre": "Producto 040",
+      "categoria": "Tecnolog\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 41,
+    "fields": {
+      "nombre": "Producto 041",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 42,
+    "fields": {
+      "nombre": "Producto 042",
+      "categoria": "Tecnolog\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 43,
+    "fields": {
+      "nombre": "Producto 043",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 44,
+    "fields": {
+      "nombre": "Producto 044",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 45,
+    "fields": {
+      "nombre": "Producto 045",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 46,
+    "fields": {
+      "nombre": "Producto 046",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 47,
+    "fields": {
+      "nombre": "Producto 047",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 48,
+    "fields": {
+      "nombre": "Producto 048",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 49,
+    "fields": {
+      "nombre": "Producto 049",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 50,
+    "fields": {
+      "nombre": "Producto 050",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 51,
+    "fields": {
+      "nombre": "Producto 051",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 52,
+    "fields": {
+      "nombre": "Producto 052",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 53,
+    "fields": {
+      "nombre": "Producto 053",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 54,
+    "fields": {
+      "nombre": "Producto 054",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 55,
+    "fields": {
+      "nombre": "Producto 055",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 56,
+    "fields": {
+      "nombre": "Producto 056",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 57,
+    "fields": {
+      "nombre": "Producto 057",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 58,
+    "fields": {
+      "nombre": "Producto 058",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 59,
+    "fields": {
+      "nombre": "Producto 059",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 60,
+    "fields": {
+      "nombre": "Producto 060",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 61,
+    "fields": {
+      "nombre": "Producto 061",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 62,
+    "fields": {
+      "nombre": "Producto 062",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 63,
+    "fields": {
+      "nombre": "Producto 063",
+      "categoria": "Tecnolog\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 64,
+    "fields": {
+      "nombre": "Producto 064",
+      "categoria": "Tecnolog\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 65,
+    "fields": {
+      "nombre": "Producto 065",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 66,
+    "fields": {
+      "nombre": "Producto 066",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 67,
+    "fields": {
+      "nombre": "Producto 067",
+      "categoria": "Tecnolog\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 68,
+    "fields": {
+      "nombre": "Producto 068",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 69,
+    "fields": {
+      "nombre": "Producto 069",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 70,
+    "fields": {
+      "nombre": "Producto 070",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 71,
+    "fields": {
+      "nombre": "Producto 071",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 72,
+    "fields": {
+      "nombre": "Producto 072",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 73,
+    "fields": {
+      "nombre": "Producto 073",
+      "categoria": "Tecnolog\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 74,
+    "fields": {
+      "nombre": "Producto 074",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 75,
+    "fields": {
+      "nombre": "Producto 075",
+      "categoria": "Tecnolog\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 76,
+    "fields": {
+      "nombre": "Producto 076",
+      "categoria": "Tecnolog\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 77,
+    "fields": {
+      "nombre": "Producto 077",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 78,
+    "fields": {
+      "nombre": "Producto 078",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 79,
+    "fields": {
+      "nombre": "Producto 079",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 80,
+    "fields": {
+      "nombre": "Producto 080",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 81,
+    "fields": {
+      "nombre": "Producto 081",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 82,
+    "fields": {
+      "nombre": "Producto 082",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 83,
+    "fields": {
+      "nombre": "Producto 083",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 84,
+    "fields": {
+      "nombre": "Producto 084",
+      "categoria": "Tecnolog\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 85,
+    "fields": {
+      "nombre": "Producto 085",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 86,
+    "fields": {
+      "nombre": "Producto 086",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 87,
+    "fields": {
+      "nombre": "Producto 087",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 88,
+    "fields": {
+      "nombre": "Producto 088",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 89,
+    "fields": {
+      "nombre": "Producto 089",
+      "categoria": "Tecnolog\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 90,
+    "fields": {
+      "nombre": "Producto 090",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 91,
+    "fields": {
+      "nombre": "Producto 091",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 92,
+    "fields": {
+      "nombre": "Producto 092",
+      "categoria": "Consultor\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 93,
+    "fields": {
+      "nombre": "Producto 093",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 94,
+    "fields": {
+      "nombre": "Producto 094",
+      "categoria": "Tecnolog\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 95,
+    "fields": {
+      "nombre": "Producto 095",
+      "categoria": "Seguros"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 96,
+    "fields": {
+      "nombre": "Producto 096",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 97,
+    "fields": {
+      "nombre": "Producto 097",
+      "categoria": "Tecnolog\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 98,
+    "fields": {
+      "nombre": "Producto 098",
+      "categoria": "Financiero"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 99,
+    "fields": {
+      "nombre": "Producto 099",
+      "categoria": "Tecnolog\u00eda"
+    }
+  },
+  {
+    "model": "ventas.producto",
+    "pk": 100,
+    "fields": {
+      "nombre": "Producto 100",
+      "categoria": "Consultor\u00eda"
+    }
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "model": "ventas.tiempo",
+    "pk": 1,
+    "fields": {
+      "fecha": "2022-11-30",
+      "mes": 11,
+      "a\u00f1o": 2022
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 2,
+    "fields": {
+      "fecha": "2023-07-31",
+      "mes": 7,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 3,
+    "fields": {
+      "fecha": "2023-08-17",
+      "mes": 8,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 4,
+    "fields": {
+      "fecha": "2024-10-17",
+      "mes": 10,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 5,
+    "fields": {
+      "fecha": "2022-02-21",
+      "mes": 2,
+      "a\u00f1o": 2022
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 6,
+    "fields": {
+      "fecha": "2020-08-16",
+      "mes": 8,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 7,
+    "fields": {
+      "fecha": "2024-01-23",
+      "mes": 1,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 8,
+    "fields": {
+      "fecha": "2023-07-10",
+      "mes": 7,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 9,
+    "fields": {
+      "fecha": "2023-06-08",
+      "mes": 6,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 10,
+    "fields": {
+      "fecha": "2022-06-22",
+      "mes": 6,
+      "a\u00f1o": 2022
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 11,
+    "fields": {
+      "fecha": "2020-10-17",
+      "mes": 10,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 12,
+    "fields": {
+      "fecha": "2022-09-19",
+      "mes": 9,
+      "a\u00f1o": 2022
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 13,
+    "fields": {
+      "fecha": "2021-02-26",
+      "mes": 2,
+      "a\u00f1o": 2021
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 14,
+    "fields": {
+      "fecha": "2020-10-20",
+      "mes": 10,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 15,
+    "fields": {
+      "fecha": "2021-06-25",
+      "mes": 6,
+      "a\u00f1o": 2021
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 16,
+    "fields": {
+      "fecha": "2022-04-07",
+      "mes": 4,
+      "a\u00f1o": 2022
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 17,
+    "fields": {
+      "fecha": "2020-01-09",
+      "mes": 1,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 18,
+    "fields": {
+      "fecha": "2021-02-06",
+      "mes": 2,
+      "a\u00f1o": 2021
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 19,
+    "fields": {
+      "fecha": "2020-04-28",
+      "mes": 4,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 20,
+    "fields": {
+      "fecha": "2021-11-26",
+      "mes": 11,
+      "a\u00f1o": 2021
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 21,
+    "fields": {
+      "fecha": "2024-04-30",
+      "mes": 4,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 22,
+    "fields": {
+      "fecha": "2024-05-13",
+      "mes": 5,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 23,
+    "fields": {
+      "fecha": "2024-11-23",
+      "mes": 11,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 24,
+    "fields": {
+      "fecha": "2020-03-03",
+      "mes": 3,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 25,
+    "fields": {
+      "fecha": "2021-08-18",
+      "mes": 8,
+      "a\u00f1o": 2021
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 26,
+    "fields": {
+      "fecha": "2022-03-30",
+      "mes": 3,
+      "a\u00f1o": 2022
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 27,
+    "fields": {
+      "fecha": "2023-04-21",
+      "mes": 4,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 28,
+    "fields": {
+      "fecha": "2020-01-31",
+      "mes": 1,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 29,
+    "fields": {
+      "fecha": "2021-04-01",
+      "mes": 4,
+      "a\u00f1o": 2021
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 30,
+    "fields": {
+      "fecha": "2024-01-01",
+      "mes": 1,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 31,
+    "fields": {
+      "fecha": "2022-11-14",
+      "mes": 11,
+      "a\u00f1o": 2022
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 32,
+    "fields": {
+      "fecha": "2020-08-05",
+      "mes": 8,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 33,
+    "fields": {
+      "fecha": "2020-05-11",
+      "mes": 5,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 34,
+    "fields": {
+      "fecha": "2023-09-07",
+      "mes": 9,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 35,
+    "fields": {
+      "fecha": "2024-10-09",
+      "mes": 10,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 36,
+    "fields": {
+      "fecha": "2020-03-30",
+      "mes": 3,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 37,
+    "fields": {
+      "fecha": "2023-06-09",
+      "mes": 6,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 38,
+    "fields": {
+      "fecha": "2023-09-29",
+      "mes": 9,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 39,
+    "fields": {
+      "fecha": "2021-03-13",
+      "mes": 3,
+      "a\u00f1o": 2021
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 40,
+    "fields": {
+      "fecha": "2024-03-18",
+      "mes": 3,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 41,
+    "fields": {
+      "fecha": "2022-08-02",
+      "mes": 8,
+      "a\u00f1o": 2022
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 42,
+    "fields": {
+      "fecha": "2024-08-06",
+      "mes": 8,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 43,
+    "fields": {
+      "fecha": "2022-07-25",
+      "mes": 7,
+      "a\u00f1o": 2022
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 44,
+    "fields": {
+      "fecha": "2023-04-16",
+      "mes": 4,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 45,
+    "fields": {
+      "fecha": "2020-01-19",
+      "mes": 1,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 46,
+    "fields": {
+      "fecha": "2020-12-07",
+      "mes": 12,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 47,
+    "fields": {
+      "fecha": "2022-10-18",
+      "mes": 10,
+      "a\u00f1o": 2022
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 48,
+    "fields": {
+      "fecha": "2024-10-30",
+      "mes": 10,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 49,
+    "fields": {
+      "fecha": "2022-06-09",
+      "mes": 6,
+      "a\u00f1o": 2022
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 50,
+    "fields": {
+      "fecha": "2021-10-10",
+      "mes": 10,
+      "a\u00f1o": 2021
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 51,
+    "fields": {
+      "fecha": "2023-04-07",
+      "mes": 4,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 52,
+    "fields": {
+      "fecha": "2021-01-05",
+      "mes": 1,
+      "a\u00f1o": 2021
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 53,
+    "fields": {
+      "fecha": "2020-11-29",
+      "mes": 11,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 54,
+    "fields": {
+      "fecha": "2021-08-26",
+      "mes": 8,
+      "a\u00f1o": 2021
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 55,
+    "fields": {
+      "fecha": "2024-03-08",
+      "mes": 3,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 56,
+    "fields": {
+      "fecha": "2023-08-03",
+      "mes": 8,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 57,
+    "fields": {
+      "fecha": "2020-08-10",
+      "mes": 8,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 58,
+    "fields": {
+      "fecha": "2024-09-01",
+      "mes": 9,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 59,
+    "fields": {
+      "fecha": "2023-12-26",
+      "mes": 12,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 60,
+    "fields": {
+      "fecha": "2020-02-15",
+      "mes": 2,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 61,
+    "fields": {
+      "fecha": "2020-06-06",
+      "mes": 6,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 62,
+    "fields": {
+      "fecha": "2023-02-16",
+      "mes": 2,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 63,
+    "fields": {
+      "fecha": "2020-08-19",
+      "mes": 8,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 64,
+    "fields": {
+      "fecha": "2020-10-28",
+      "mes": 10,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 65,
+    "fields": {
+      "fecha": "2023-03-10",
+      "mes": 3,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 66,
+    "fields": {
+      "fecha": "2024-08-17",
+      "mes": 8,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 67,
+    "fields": {
+      "fecha": "2024-06-19",
+      "mes": 6,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 68,
+    "fields": {
+      "fecha": "2020-09-10",
+      "mes": 9,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 69,
+    "fields": {
+      "fecha": "2022-12-31",
+      "mes": 12,
+      "a\u00f1o": 2022
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 70,
+    "fields": {
+      "fecha": "2024-08-12",
+      "mes": 8,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 71,
+    "fields": {
+      "fecha": "2022-11-05",
+      "mes": 11,
+      "a\u00f1o": 2022
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 72,
+    "fields": {
+      "fecha": "2023-01-10",
+      "mes": 1,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 73,
+    "fields": {
+      "fecha": "2020-11-06",
+      "mes": 11,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 74,
+    "fields": {
+      "fecha": "2020-06-12",
+      "mes": 6,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 75,
+    "fields": {
+      "fecha": "2024-06-12",
+      "mes": 6,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 76,
+    "fields": {
+      "fecha": "2020-09-11",
+      "mes": 9,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 77,
+    "fields": {
+      "fecha": "2022-08-07",
+      "mes": 8,
+      "a\u00f1o": 2022
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 78,
+    "fields": {
+      "fecha": "2022-08-28",
+      "mes": 8,
+      "a\u00f1o": 2022
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 79,
+    "fields": {
+      "fecha": "2022-07-11",
+      "mes": 7,
+      "a\u00f1o": 2022
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 80,
+    "fields": {
+      "fecha": "2023-09-28",
+      "mes": 9,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 81,
+    "fields": {
+      "fecha": "2023-12-27",
+      "mes": 12,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 82,
+    "fields": {
+      "fecha": "2023-02-08",
+      "mes": 2,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 83,
+    "fields": {
+      "fecha": "2020-03-28",
+      "mes": 3,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 84,
+    "fields": {
+      "fecha": "2024-11-21",
+      "mes": 11,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 85,
+    "fields": {
+      "fecha": "2023-05-09",
+      "mes": 5,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 86,
+    "fields": {
+      "fecha": "2021-11-17",
+      "mes": 11,
+      "a\u00f1o": 2021
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 87,
+    "fields": {
+      "fecha": "2024-09-06",
+      "mes": 9,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 88,
+    "fields": {
+      "fecha": "2024-08-27",
+      "mes": 8,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 89,
+    "fields": {
+      "fecha": "2023-05-03",
+      "mes": 5,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 90,
+    "fields": {
+      "fecha": "2023-04-03",
+      "mes": 4,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 91,
+    "fields": {
+      "fecha": "2021-12-05",
+      "mes": 12,
+      "a\u00f1o": 2021
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 92,
+    "fields": {
+      "fecha": "2020-12-23",
+      "mes": 12,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 93,
+    "fields": {
+      "fecha": "2023-05-26",
+      "mes": 5,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 94,
+    "fields": {
+      "fecha": "2024-11-05",
+      "mes": 11,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 95,
+    "fields": {
+      "fecha": "2021-09-02",
+      "mes": 9,
+      "a\u00f1o": 2021
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 96,
+    "fields": {
+      "fecha": "2020-11-11",
+      "mes": 11,
+      "a\u00f1o": 2020
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 97,
+    "fields": {
+      "fecha": "2024-03-02",
+      "mes": 3,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 98,
+    "fields": {
+      "fecha": "2024-02-16",
+      "mes": 2,
+      "a\u00f1o": 2024
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 99,
+    "fields": {
+      "fecha": "2023-01-20",
+      "mes": 1,
+      "a\u00f1o": 2023
+    }
+  },
+  {
+    "model": "ventas.tiempo",
+    "pk": 100,
+    "fields": {
+      "fecha": "2024-04-05",
+      "mes": 4,
+      "a\u00f1o": 2024
+    }
+  }
+]

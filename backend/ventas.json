@@ -1,0 +1,1102 @@
+[
+  {
+    "model": "ventas.venta",
+    "pk": 1,
+    "fields": {
+      "cantidad": 4,
+      "total": 3032,
+      "producto": 8,
+      "cliente": 44,
+      "tiempo": 80
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 2,
+    "fields": {
+      "cantidad": 5,
+      "total": 4635,
+      "producto": 11,
+      "cliente": 51,
+      "tiempo": 20
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 3,
+    "fields": {
+      "cantidad": 4,
+      "total": 1712,
+      "producto": 8,
+      "cliente": 90,
+      "tiempo": 93
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 4,
+    "fields": {
+      "cantidad": 1,
+      "total": 651,
+      "producto": 11,
+      "cliente": 27,
+      "tiempo": 59
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 5,
+    "fields": {
+      "cantidad": 3,
+      "total": 1866,
+      "producto": 4,
+      "cliente": 34,
+      "tiempo": 98
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 6,
+    "fields": {
+      "cantidad": 5,
+      "total": 2345,
+      "producto": 7,
+      "cliente": 33,
+      "tiempo": 30
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 7,
+    "fields": {
+      "cantidad": 1,
+      "total": 338,
+      "producto": 3,
+      "cliente": 62,
+      "tiempo": 86
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 8,
+    "fields": {
+      "cantidad": 1,
+      "total": 259,
+      "producto": 4,
+      "cliente": 34,
+      "tiempo": 51
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 9,
+    "fields": {
+      "cantidad": 1,
+      "total": 153,
+      "producto": 11,
+      "cliente": 83,
+      "tiempo": 90
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 10,
+    "fields": {
+      "cantidad": 4,
+      "total": 3240,
+      "producto": 2,
+      "cliente": 62,
+      "tiempo": 28
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 11,
+    "fields": {
+      "cantidad": 1,
+      "total": 380,
+      "producto": 5,
+      "cliente": 22,
+      "tiempo": 68
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 12,
+    "fields": {
+      "cantidad": 1,
+      "total": 74,
+      "producto": 9,
+      "cliente": 96,
+      "tiempo": 15
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 13,
+    "fields": {
+      "cantidad": 1,
+      "total": 551,
+      "producto": 11,
+      "cliente": 8,
+      "tiempo": 93
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 14,
+    "fields": {
+      "cantidad": 2,
+      "total": 850,
+      "producto": 10,
+      "cliente": 93,
+      "tiempo": 24
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 15,
+    "fields": {
+      "cantidad": 2,
+      "total": 1554,
+      "producto": 9,
+      "cliente": 79,
+      "tiempo": 76
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 16,
+    "fields": {
+      "cantidad": 4,
+      "total": 1240,
+      "producto": 2,
+      "cliente": 42,
+      "tiempo": 9
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 17,
+    "fields": {
+      "cantidad": 5,
+      "total": 2210,
+      "producto": 6,
+      "cliente": 77,
+      "tiempo": 9
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 18,
+    "fields": {
+      "cantidad": 1,
+      "total": 228,
+      "producto": 9,
+      "cliente": 9,
+      "tiempo": 20
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 19,
+    "fields": {
+      "cantidad": 4,
+      "total": 244,
+      "producto": 12,
+      "cliente": 93,
+      "tiempo": 25
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 20,
+    "fields": {
+      "cantidad": 4,
+      "total": 320,
+      "producto": 10,
+      "cliente": 59,
+      "tiempo": 52
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 21,
+    "fields": {
+      "cantidad": 2,
+      "total": 198,
+      "producto": 2,
+      "cliente": 58,
+      "tiempo": 83
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 22,
+    "fields": {
+      "cantidad": 4,
+      "total": 2688,
+      "producto": 4,
+      "cliente": 3,
+      "tiempo": 89
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 23,
+    "fields": {
+      "cantidad": 5,
+      "total": 2080,
+      "producto": 9,
+      "cliente": 30,
+      "tiempo": 53
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 24,
+    "fields": {
+      "cantidad": 2,
+      "total": 1206,
+      "producto": 4,
+      "cliente": 1,
+      "tiempo": 61
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 25,
+    "fields": {
+      "cantidad": 1,
+      "total": 410,
+      "producto": 10,
+      "cliente": 2,
+      "tiempo": 15
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 26,
+    "fields": {
+      "cantidad": 1,
+      "total": 278,
+      "producto": 8,
+      "cliente": 49,
+      "tiempo": 94
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 27,
+    "fields": {
+      "cantidad": 2,
+      "total": 226,
+      "producto": 12,
+      "cliente": 51,
+      "tiempo": 26
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 28,
+    "fields": {
+      "cantidad": 2,
+      "total": 1698,
+      "producto": 5,
+      "cliente": 1,
+      "tiempo": 13
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 29,
+    "fields": {
+      "cantidad": 3,
+      "total": 2967,
+      "producto": 3,
+      "cliente": 91,
+      "tiempo": 87
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 30,
+    "fields": {
+      "cantidad": 1,
+      "total": 91,
+      "producto": 9,
+      "cliente": 34,
+      "tiempo": 85
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 31,
+    "fields": {
+      "cantidad": 2,
+      "total": 316,
+      "producto": 9,
+      "cliente": 99,
+      "tiempo": 38
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 32,
+    "fields": {
+      "cantidad": 1,
+      "total": 137,
+      "producto": 4,
+      "cliente": 32,
+      "tiempo": 77
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 33,
+    "fields": {
+      "cantidad": 4,
+      "total": 2144,
+      "producto": 1,
+      "cliente": 71,
+      "tiempo": 10
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 34,
+    "fields": {
+      "cantidad": 1,
+      "total": 789,
+      "producto": 11,
+      "cliente": 11,
+      "tiempo": 19
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 35,
+    "fields": {
+      "cantidad": 1,
+      "total": 761,
+      "producto": 1,
+      "cliente": 68,
+      "tiempo": 49
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 36,
+    "fields": {
+      "cantidad": 4,
+      "total": 3216,
+      "producto": 7,
+      "cliente": 82,
+      "tiempo": 70
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 37,
+    "fields": {
+      "cantidad": 2,
+      "total": 1946,
+      "producto": 4,
+      "cliente": 77,
+      "tiempo": 75
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 38,
+    "fields": {
+      "cantidad": 1,
+      "total": 522,
+      "producto": 4,
+      "cliente": 41,
+      "tiempo": 88
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 39,
+    "fields": {
+      "cantidad": 4,
+      "total": 964,
+      "producto": 3,
+      "cliente": 55,
+      "tiempo": 15
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 40,
+    "fields": {
+      "cantidad": 1,
+      "total": 170,
+      "producto": 3,
+      "cliente": 4,
+      "tiempo": 44
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 41,
+    "fields": {
+      "cantidad": 5,
+      "total": 3340,
+      "producto": 10,
+      "cliente": 31,
+      "tiempo": 91
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 42,
+    "fields": {
+      "cantidad": 5,
+      "total": 2355,
+      "producto": 3,
+      "cliente": 37,
+      "tiempo": 92
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 43,
+    "fields": {
+      "cantidad": 5,
+      "total": 2170,
+      "producto": 10,
+      "cliente": 56,
+      "tiempo": 18
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 44,
+    "fields": {
+      "cantidad": 1,
+      "total": 407,
+      "producto": 5,
+      "cliente": 20,
+      "tiempo": 45
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 45,
+    "fields": {
+      "cantidad": 5,
+      "total": 3270,
+      "producto": 3,
+      "cliente": 95,
+      "tiempo": 97
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 46,
+    "fields": {
+      "cantidad": 2,
+      "total": 776,
+      "producto": 7,
+      "cliente": 45,
+      "tiempo": 17
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 47,
+    "fields": {
+      "cantidad": 5,
+      "total": 4815,
+      "producto": 6,
+      "cliente": 26,
+      "tiempo": 85
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 48,
+    "fields": {
+      "cantidad": 2,
+      "total": 184,
+      "producto": 5,
+      "cliente": 46,
+      "tiempo": 60
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 49,
+    "fields": {
+      "cantidad": 4,
+      "total": 1816,
+      "producto": 7,
+      "cliente": 66,
+      "tiempo": 83
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 50,
+    "fields": {
+      "cantidad": 3,
+      "total": 2670,
+      "producto": 3,
+      "cliente": 75,
+      "tiempo": 17
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 51,
+    "fields": {
+      "cantidad": 4,
+      "total": 1568,
+      "producto": 6,
+      "cliente": 56,
+      "tiempo": 90
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 52,
+    "fields": {
+      "cantidad": 3,
+      "total": 648,
+      "producto": 8,
+      "cliente": 21,
+      "tiempo": 23
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 53,
+    "fields": {
+      "cantidad": 3,
+      "total": 1311,
+      "producto": 11,
+      "cliente": 93,
+      "tiempo": 19
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 54,
+    "fields": {
+      "cantidad": 1,
+      "total": 719,
+      "producto": 5,
+      "cliente": 63,
+      "tiempo": 12
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 55,
+    "fields": {
+      "cantidad": 4,
+      "total": 2820,
+      "producto": 7,
+      "cliente": 28,
+      "tiempo": 31
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 56,
+    "fields": {
+      "cantidad": 2,
+      "total": 964,
+      "producto": 7,
+      "cliente": 37,
+      "tiempo": 17
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 57,
+    "fields": {
+      "cantidad": 4,
+      "total": 3732,
+      "producto": 9,
+      "cliente": 50,
+      "tiempo": 4
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 58,
+    "fields": {
+      "cantidad": 4,
+      "total": 3324,
+      "producto": 9,
+      "cliente": 94,
+      "tiempo": 91
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 59,
+    "fields": {
+      "cantidad": 3,
+      "total": 435,
+      "producto": 3,
+      "cliente": 81,
+      "tiempo": 63
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 60,
+    "fields": {
+      "cantidad": 2,
+      "total": 1584,
+      "producto": 9,
+      "cliente": 24,
+      "tiempo": 39
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 61,
+    "fields": {
+      "cantidad": 4,
+      "total": 572,
+      "producto": 3,
+      "cliente": 41,
+      "tiempo": 48
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 62,
+    "fields": {
+      "cantidad": 3,
+      "total": 339,
+      "producto": 11,
+      "cliente": 96,
+      "tiempo": 7
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 63,
+    "fields": {
+      "cantidad": 4,
+      "total": 3884,
+      "producto": 5,
+      "cliente": 77,
+      "tiempo": 27
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 64,
+    "fields": {
+      "cantidad": 1,
+      "total": 734,
+      "producto": 6,
+      "cliente": 73,
+      "tiempo": 11
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 65,
+    "fields": {
+      "cantidad": 3,
+      "total": 660,
+      "producto": 8,
+      "cliente": 3,
+      "tiempo": 94
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 66,
+    "fields": {
+      "cantidad": 3,
+      "total": 522,
+      "producto": 1,
+      "cliente": 12,
+      "tiempo": 41
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 67,
+    "fields": {
+      "cantidad": 2,
+      "total": 1990,
+      "producto": 6,
+      "cliente": 39,
+      "tiempo": 39
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 68,
+    "fields": {
+      "cantidad": 4,
+      "total": 2076,
+      "producto": 6,
+      "cliente": 56,
+      "tiempo": 95
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 69,
+    "fields": {
+      "cantidad": 5,
+      "total": 3520,
+      "producto": 2,
+      "cliente": 36,
+      "tiempo": 65
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 70,
+    "fields": {
+      "cantidad": 5,
+      "total": 4085,
+      "producto": 10,
+      "cliente": 94,
+      "tiempo": 60
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 71,
+    "fields": {
+      "cantidad": 3,
+      "total": 159,
+      "producto": 10,
+      "cliente": 47,
+      "tiempo": 78
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 72,
+    "fields": {
+      "cantidad": 1,
+      "total": 843,
+      "producto": 11,
+      "cliente": 52,
+      "tiempo": 12
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 73,
+    "fields": {
+      "cantidad": 5,
+      "total": 4800,
+      "producto": 10,
+      "cliente": 60,
+      "tiempo": 40
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 74,
+    "fields": {
+      "cantidad": 3,
+      "total": 1725,
+      "producto": 1,
+      "cliente": 62,
+      "tiempo": 90
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 75,
+    "fields": {
+      "cantidad": 1,
+      "total": 230,
+      "producto": 1,
+      "cliente": 29,
+      "tiempo": 40
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 76,
+    "fields": {
+      "cantidad": 3,
+      "total": 1524,
+      "producto": 1,
+      "cliente": 73,
+      "tiempo": 43
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 77,
+    "fields": {
+      "cantidad": 5,
+      "total": 3480,
+      "producto": 8,
+      "cliente": 83,
+      "tiempo": 51
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 78,
+    "fields": {
+      "cantidad": 2,
+      "total": 1180,
+      "producto": 7,
+      "cliente": 63,
+      "tiempo": 80
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 79,
+    "fields": {
+      "cantidad": 1,
+      "total": 427,
+      "producto": 5,
+      "cliente": 93,
+      "tiempo": 80
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 80,
+    "fields": {
+      "cantidad": 5,
+      "total": 2425,
+      "producto": 9,
+      "cliente": 2,
+      "tiempo": 47
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 81,
+    "fields": {
+      "cantidad": 4,
+      "total": 1228,
+      "producto": 4,
+      "cliente": 97,
+      "tiempo": 35
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 82,
+    "fields": {
+      "cantidad": 4,
+      "total": 448,
+      "producto": 12,
+      "cliente": 41,
+      "tiempo": 30
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 83,
+    "fields": {
+      "cantidad": 1,
+      "total": 603,
+      "producto": 5,
+      "cliente": 21,
+      "tiempo": 48
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 84,
+    "fields": {
+      "cantidad": 1,
+      "total": 367,
+      "producto": 7,
+      "cliente": 3,
+      "tiempo": 21
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 85,
+    "fields": {
+      "cantidad": 1,
+      "total": 54,
+      "producto": 6,
+      "cliente": 84,
+      "tiempo": 85
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 86,
+    "fields": {
+      "cantidad": 4,
+      "total": 3748,
+      "producto": 8,
+      "cliente": 78,
+      "tiempo": 53
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 87,
+    "fields": {
+      "cantidad": 2,
+      "total": 920,
+      "producto": 4,
+      "cliente": 98,
+      "tiempo": 33
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 88,
+    "fields": {
+      "cantidad": 5,
+      "total": 4165,
+      "producto": 11,
+      "cliente": 92,
+      "tiempo": 99
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 89,
+    "fields": {
+      "cantidad": 1,
+      "total": 120,
+      "producto": 5,
+      "cliente": 77,
+      "tiempo": 96
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 90,
+    "fields": {
+      "cantidad": 5,
+      "total": 2110,
+      "producto": 1,
+      "cliente": 96,
+      "tiempo": 41
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 91,
+    "fields": {
+      "cantidad": 4,
+      "total": 3972,
+      "producto": 12,
+      "cliente": 12,
+      "tiempo": 22
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 92,
+    "fields": {
+      "cantidad": 4,
+      "total": 3560,
+      "producto": 12,
+      "cliente": 47,
+      "tiempo": 88
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 93,
+    "fields": {
+      "cantidad": 5,
+      "total": 4805,
+      "producto": 10,
+      "cliente": 95,
+      "tiempo": 30
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 94,
+    "fields": {
+      "cantidad": 3,
+      "total": 2658,
+      "producto": 10,
+      "cliente": 73,
+      "tiempo": 3
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 95,
+    "fields": {
+      "cantidad": 5,
+      "total": 2235,
+      "producto": 4,
+      "cliente": 60,
+      "tiempo": 84
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 96,
+    "fields": {
+      "cantidad": 1,
+      "total": 430,
+      "producto": 12,
+      "cliente": 38,
+      "tiempo": 41
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 97,
+    "fields": {
+      "cantidad": 2,
+      "total": 1534,
+      "producto": 12,
+      "cliente": 66,
+      "tiempo": 40
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 98,
+    "fields": {
+      "cantidad": 2,
+      "total": 782,
+      "producto": 1,
+      "cliente": 66,
+      "tiempo": 89
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 99,
+    "fields": {
+      "cantidad": 3,
+      "total": 1989,
+      "producto": 1,
+      "cliente": 20,
+      "tiempo": 30
+    }
+  },
+  {
+    "model": "ventas.venta",
+    "pk": 100,
+    "fields": {
+      "cantidad": 2,
+      "total": 1170,
+      "producto": 12,
+      "cliente": 80,
+      "tiempo": 46
+    }
+  }
+]

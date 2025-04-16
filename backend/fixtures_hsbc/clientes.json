@@ -1,0 +1,802 @@
+[
+  {
+    "model": "ventas.cliente",
+    "pk": 1,
+    "fields": {
+      "nombre": "Cliente 001",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 2,
+    "fields": {
+      "nombre": "Cliente 002",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 3,
+    "fields": {
+      "nombre": "Cliente 003",
+      "segmento": "Corporativo"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 4,
+    "fields": {
+      "nombre": "Cliente 004",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 5,
+    "fields": {
+      "nombre": "Cliente 005",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 6,
+    "fields": {
+      "nombre": "Cliente 006",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 7,
+    "fields": {
+      "nombre": "Cliente 007",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 8,
+    "fields": {
+      "nombre": "Cliente 008",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 9,
+    "fields": {
+      "nombre": "Cliente 009",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 10,
+    "fields": {
+      "nombre": "Cliente 010",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 11,
+    "fields": {
+      "nombre": "Cliente 011",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 12,
+    "fields": {
+      "nombre": "Cliente 012",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 13,
+    "fields": {
+      "nombre": "Cliente 013",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 14,
+    "fields": {
+      "nombre": "Cliente 014",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 15,
+    "fields": {
+      "nombre": "Cliente 015",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 16,
+    "fields": {
+      "nombre": "Cliente 016",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 17,
+    "fields": {
+      "nombre": "Cliente 017",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 18,
+    "fields": {
+      "nombre": "Cliente 018",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 19,
+    "fields": {
+      "nombre": "Cliente 019",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 20,
+    "fields": {
+      "nombre": "Cliente 020",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 21,
+    "fields": {
+      "nombre": "Cliente 021",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 22,
+    "fields": {
+      "nombre": "Cliente 022",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 23,
+    "fields": {
+      "nombre": "Cliente 023",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 24,
+    "fields": {
+      "nombre": "Cliente 024",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 25,
+    "fields": {
+      "nombre": "Cliente 025",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 26,
+    "fields": {
+      "nombre": "Cliente 026",
+      "segmento": "Corporativo"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 27,
+    "fields": {
+      "nombre": "Cliente 027",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 28,
+    "fields": {
+      "nombre": "Cliente 028",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 29,
+    "fields": {
+      "nombre": "Cliente 029",
+      "segmento": "Corporativo"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 30,
+    "fields": {
+      "nombre": "Cliente 030",
+      "segmento": "Corporativo"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 31,
+    "fields": {
+      "nombre": "Cliente 031",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 32,
+    "fields": {
+      "nombre": "Cliente 032",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 33,
+    "fields": {
+      "nombre": "Cliente 033",
+      "segmento": "Corporativo"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 34,
+    "fields": {
+      "nombre": "Cliente 034",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 35,
+    "fields": {
+      "nombre": "Cliente 035",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 36,
+    "fields": {
+      "nombre": "Cliente 036",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 37,
+    "fields": {
+      "nombre": "Cliente 037",
+      "segmento": "Corporativo"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 38,
+    "fields": {
+      "nombre": "Cliente 038",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 39,
+    "fields": {
+      "nombre": "Cliente 039",
+      "segmento": "Corporativo"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 40,
+    "fields": {
+      "nombre": "Cliente 040",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 41,
+    "fields": {
+      "nombre": "Cliente 041",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 42,
+    "fields": {
+      "nombre": "Cliente 042",
+      "segmento": "Corporativo"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 43,
+    "fields": {
+      "nombre": "Cliente 043",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 44,
+    "fields": {
+      "nombre": "Cliente 044",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 45,
+    "fields": {
+      "nombre": "Cliente 045",
+      "segmento": "Corporativo"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 46,
+    "fields": {
+      "nombre": "Cliente 046",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 47,
+    "fields": {
+      "nombre": "Cliente 047",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 48,
+    "fields": {
+      "nombre": "Cliente 048",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 49,
+    "fields": {
+      "nombre": "Cliente 049",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 50,
+    "fields": {
+      "nombre": "Cliente 050",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 51,
+    "fields": {
+      "nombre": "Cliente 051",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 52,
+    "fields": {
+      "nombre": "Cliente 052",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 53,
+    "fields": {
+      "nombre": "Cliente 053",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 54,
+    "fields": {
+      "nombre": "Cliente 054",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 55,
+    "fields": {
+      "nombre": "Cliente 055",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 56,
+    "fields": {
+      "nombre": "Cliente 056",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 57,
+    "fields": {
+      "nombre": "Cliente 057",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 58,
+    "fields": {
+      "nombre": "Cliente 058",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 59,
+    "fields": {
+      "nombre": "Cliente 059",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 60,
+    "fields": {
+      "nombre": "Cliente 060",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 61,
+    "fields": {
+      "nombre": "Cliente 061",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 62,
+    "fields": {
+      "nombre": "Cliente 062",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 63,
+    "fields": {
+      "nombre": "Cliente 063",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 64,
+    "fields": {
+      "nombre": "Cliente 064",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 65,
+    "fields": {
+      "nombre": "Cliente 065",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 66,
+    "fields": {
+      "nombre": "Cliente 066",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 67,
+    "fields": {
+      "nombre": "Cliente 067",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 68,
+    "fields": {
+      "nombre": "Cliente 068",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 69,
+    "fields": {
+      "nombre": "Cliente 069",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 70,
+    "fields": {
+      "nombre": "Cliente 070",
+      "segmento": "Corporativo"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 71,
+    "fields": {
+      "nombre": "Cliente 071",
+      "segmento": "Corporativo"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 72,
+    "fields": {
+      "nombre": "Cliente 072",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 73,
+    "fields": {
+      "nombre": "Cliente 073",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 74,
+    "fields": {
+      "nombre": "Cliente 074",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 75,
+    "fields": {
+      "nombre": "Cliente 075",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 76,
+    "fields": {
+      "nombre": "Cliente 076",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 77,
+    "fields": {
+      "nombre": "Cliente 077",
+      "segmento": "Corporativo"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 78,
+    "fields": {
+      "nombre": "Cliente 078",
+      "segmento": "Corporativo"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 79,
+    "fields": {
+      "nombre": "Cliente 079",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 80,
+    "fields": {
+      "nombre": "Cliente 080",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 81,
+    "fields": {
+      "nombre": "Cliente 081",
+      "segmento": "Corporativo"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 82,
+    "fields": {
+      "nombre": "Cliente 082",
+      "segmento": "Corporativo"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 83,
+    "fields": {
+      "nombre": "Cliente 083",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 84,
+    "fields": {
+      "nombre": "Cliente 084",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 85,
+    "fields": {
+      "nombre": "Cliente 085",
+      "segmento": "Corporativo"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 86,
+    "fields": {
+      "nombre": "Cliente 086",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 87,
+    "fields": {
+      "nombre": "Cliente 087",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 88,
+    "fields": {
+      "nombre": "Cliente 088",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 89,
+    "fields": {
+      "nombre": "Cliente 089",
+      "segmento": "Corporativo"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 90,
+    "fields": {
+      "nombre": "Cliente 090",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 91,
+    "fields": {
+      "nombre": "Cliente 091",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 92,
+    "fields": {
+      "nombre": "Cliente 092",
+      "segmento": "Corporativo"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 93,
+    "fields": {
+      "nombre": "Cliente 093",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 94,
+    "fields": {
+      "nombre": "Cliente 094",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 95,
+    "fields": {
+      "nombre": "Cliente 095",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 96,
+    "fields": {
+      "nombre": "Cliente 096",
+      "segmento": "Empresarial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 97,
+    "fields": {
+      "nombre": "Cliente 097",
+      "segmento": "P\u00fablico"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 98,
+    "fields": {
+      "nombre": "Cliente 098",
+      "segmento": "Residencial"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 99,
+    "fields": {
+      "nombre": "Cliente 099",
+      "segmento": "Corporativo"
+    }
+  },
+  {
+    "model": "ventas.cliente",
+    "pk": 100,
+    "fields": {
+      "nombre": "Cliente 100",
+      "segmento": "Residencial"
+    }
+  }
+]
